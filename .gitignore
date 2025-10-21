@@ -3,3 +3,7 @@
 .early.coverage
 
 .DS_Store
+
+#caches
+.pytest_cache
+.ruff_cache
